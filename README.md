@@ -10,8 +10,8 @@
 ##
   
 	 
-  📲💻 I am a full stack web developer. I have experience with a variety of programming languages and tools. I'm always looking to learn new technologies and improve my skills. I enjoy working on challenging projects and collaborating with others.
-   I    am also continuously studying English :nerd_face:.
+  📲💻I am a full stack web developer. I have experience with a variety of programming languages and tools. I am always looking to learn new technologies and improve my skills. I enjoy working on challenging projects and collaborating with others. Always in search of knowledge.
+         I am also studying English continuously :nerd_face:.
   
    
 ## Languages && Tools:
