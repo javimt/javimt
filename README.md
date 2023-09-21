@@ -5,12 +5,11 @@
    <div align="center">
 
 ## <p>  About me...</p>
-📲💻I am a Full Stack Web Developer. I am a person with focus and discipline. I have experience with a variety of programming languages and tools. I am always looking to learn new technologies and improve my skills. I enjoy working on challenging projects and collaborating with others. Always in search of knowledge.
-         I am also studying English continuously 📚:.
+   📲💻I am a Full Stack Web Developer. I am a person with focus and discipline. I have experience with a variety of programming languages and tools. I am always looking to learn new technologies 
+   and improve my skills. I enjoy working on challenging projects and collaborating with others. Always in search of knowledge.
+                 I am also studying English continuously 📚:..
 
-##
 ## Languages && Tools:
-
 
 <p align="center" width="300" dir="auto">
 <img src="https://camo.githubusercontent.com/9a8eda56c5fd9247798cb3fd8a59d713f6cf1824ba5962d96cb59e90000234e3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33382f48544d4c355f42616467652e7376672f36303070782d48544d4c355f42616467652e7376672e706e67" alt="html5" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" style="max-width: 100%;">
