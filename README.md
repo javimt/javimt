@@ -13,9 +13,9 @@
  
 ## Languages && Tools:
 
-<p align="center" p=10>
+<p align="center" p=15>
   <a href="https://skillicons.dev" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=vscode,js,java,nodejs,spring,express,mongodb,postgres,sequelize,jquery,postman,html,css,react,vite,redux,idea,figma,bootstrap,materialui,tailwind,threejs,git,github,gitlab,powershell,firebase&perline=10" />
+    <img src="https://skillicons.dev/icons?i=vscode,js,java,spring,nodejs,express,mongodb,postgres,sequelize,jquery,postman,html,css,react,vite,redux,idea,figma,bootstrap,materialui,tailwind,threejs,git,github,gitlab,powershell&perline=13" />
   </a>
 </p>
 <br />	
