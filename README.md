@@ -19,7 +19,7 @@
 <br />	
 
 **Contact with me** 📝 </br></br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-garcia-plata/)](https://www.linkedin.com/in/javier-garcia-plata-033349246/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javier-garcia-plata/)]([https://www.linkedin.com/in/javier-garcia-plata-033349246/](https://www.linkedin.com/in/javier-g-033349246/)) 
 [![GitHub](https://img.shields.io/github/followers/javimt?label=follow&style=social)]([javimt](https://github.com/javimt))
 <br />
 
