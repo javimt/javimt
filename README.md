@@ -5,7 +5,7 @@
    <div align="center">
 	   
  <p>  About me... </p>
-   📲💻I am a Full Stack Web Developer. I am a person with focus and discipline.
+   📲💻I am a Full Stack Developer. I am a person with focus and discipline.
 		 
  ##
  
